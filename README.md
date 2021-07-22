@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Rep](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution Rep](https://github.com/Sauravionic/Bill-Splitter)
+- Live Site URL: [Live Site](https://sauravionic.github.io/Bill-Splitter/)
 
 ## About
  An Open Source web application which uses the information provided by the user to
